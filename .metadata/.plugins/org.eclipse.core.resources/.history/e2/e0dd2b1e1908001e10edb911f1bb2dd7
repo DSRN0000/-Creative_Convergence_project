@@ -1,0 +1,7 @@
+package WEEK_10_06;
+
+public class Bird implements Fly, Walk{
+	public void Fly() {System.out.println("닭은 날 수 있다.");}
+	public void walk() {System.out.println("닭은 걸을 수 있다.");}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;MIDDLE_TEST&apos; to &apos;WEEK_07_MIDDLE_TEST&apos;&#x0D;&#x0A;- Original project: &apos;창의융합프로젝트실습_20212189_이강현&apos;&#x0D;&#x0A;- Original element: &apos;창의융합프로젝트실습_20212189_이강현/src/MIDDLE_TEST&apos;&#x0D;&#x0A;- Renamed element: &apos;창의융합프로젝트실습_20212189_이강현/src/WEEK_07_MIDDLE_TEST&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;MIDDLE_TEST&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;MIDDLE_TEST" name="WEEK_07_MIDDLE_TEST" qualified="false" references="true" stamp="1681563684610" textual="false" version="1.0"/>
+</session>

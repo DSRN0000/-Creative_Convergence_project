@@ -1,0 +1,5 @@
+package WEEK_10_06;
+
+public interface Walk {
+
+}
